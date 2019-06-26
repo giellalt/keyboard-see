@@ -1,0 +1,28 @@
+internalName: teclado_seneca
+
+locales:
+  see: 
+    name: "Ögweʼöweka꞉ʼ gajigwaʼ"
+    description: ""
+  en:
+    name: "Seneca keyboard"
+    description: "A test keyboard for Seneca."
+  es: 
+    name: &bundleName "Teclado seneca"
+    description: "Un teclado para la lengua seneca"
+
+author: Francis M. Tyers
+email: ftyers@iu.edu
+
+layouts: [see]
+
+version: "1.0"
+build: "1"
+
+targets:
+  android:
+    packageId: so.ftyers.keyboards.seneca
+    #icon: cuicateco-icon.pdf
+    keyStore: /Users/ftyers/source/giellatekno/giella-core/kbdgen/teclado_cuicateco.keystore
+    keyAlias: teclado_cuicateco
+
