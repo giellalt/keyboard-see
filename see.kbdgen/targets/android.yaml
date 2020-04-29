@@ -1,0 +1,5 @@
+packageId: so.ftyers.keyboards.seneca
+keyStore: /Users/ftyers/source/giellatekno/giella-core/kbdgen/teclado_cuicateco.keystore
+keyAlias: teclado_cuicateco
+build: 1
+version: 0.1.0

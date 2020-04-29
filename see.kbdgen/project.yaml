@@ -1,0 +1,12 @@
+locales:
+  see:
+    name: Ögweʼöweka꞉ʼ gajigwaʼ
+    description: ''
+  en:
+    name: Seneca keyboard
+    description: A test keyboard for Seneca.
+  es:
+    name: Teclado seneca
+    description: Un teclado para la lengua seneca
+author: Francis M. Tyers
+email: ftyers@iu.edu
