@@ -2,16 +2,6 @@ displayNames:
   see: Onödowáʼga꞉ʼ
   en: Seneca
 decimal: ','
-modes:
-  mobile:
-    default: |
-      q w e r t y u i o p 
-      a s d f g h j k l ʼ ꞉
-      z x c v b n m 
-    shift: |
-      Q W E R T Y U I O P 
-      A S D F G H J K L ʼ ꞉
-      Z X C V B N M 
 longpress:
   O: Ö
   A: Ä
@@ -21,11 +11,7 @@ longpress:
   a: ä
   e: ë
   s: š
-strings:
+keyNames:
   space: ganökdöt
   return: sagayöʼ
-targets:
-  ios:
-    legacyName: seneca
-  android:
-    legacyName: seneca
+
