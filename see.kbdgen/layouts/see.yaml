@@ -1,7 +1,9 @@
 displayNames:
   see: Onödowáʼga꞉ʼ
   en: Seneca
+
 decimal: ','
+
 longpress:
   O: Ö
   A: Ä
@@ -11,6 +13,7 @@ longpress:
   a: ä
   e: ë
   s: š
+
 keyNames:
   space: ganökdöt
   return: sagayöʼ
